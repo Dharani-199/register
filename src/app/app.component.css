@@ -1,0 +1,25 @@
+.Person-name{
+    position: absolute;
+    top: 205px;
+    left: 535px;
+}
+.name1{
+    position: absolute;
+    top: 295px;
+    left: 535px;
+}
+.name2{
+    position:absolute;
+    top: 387px;
+    left: 535px;
+}
+.name3{
+    position: absolute;
+    top: 536px;
+    left: 566px;
+
+}
+::placeholder{
+color:whitesmoke;
+
+}
