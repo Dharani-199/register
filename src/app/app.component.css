@@ -1,19 +1,19 @@
-.Person-name{
+/* .Person-name{
     position: absolute;
     top: 205px;
     left: 535px;
 }
-.name1{
+.Person-name2{
     position: absolute;
     top: 295px;
     left: 535px;
 }
-.name2{
+.Person-3{
     position:absolute;
     top: 387px;
     left: 535px;
 }
-.name3{
+.Person-name4{
     position: absolute;
     top: 536px;
     left: 566px;
@@ -23,3 +23,48 @@
 color:whitesmoke;
 
 }
+/* .icon{
+    color: white;
+    position: absolute;
+    top:386px;
+    left: 445px;
+} */ 
+
+.name{
+    position: absolute;
+    top: 195px;
+    left: 440px;
+}
+.name1{
+    position: absolute;
+    top: 270px;
+      left: 440px;
+}
+.name2{
+    position: absolute;
+    top: 340px;
+    left: 440px;
+}
+.name3{
+    position: absolute;
+    top: 475px;
+    left: 470px;
+
+}
+::placeholder{
+color:whitesmoke;
+
+}
+/* input{
+border-radius: 1px;
+}
+
+.but{
+width: 183px;
+border-radius: 1px;
+}
+.dia{
+border-radius: 1px;
+} */
+
+
